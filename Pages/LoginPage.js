@@ -12,5 +12,5 @@ class LoginPage extends BasePage{
         await this.click(this.loginbutton);
     }
 #testSamemoduleDifferentUser
-#conflictchange
+#conflict
 module.exports=LoginPage;
