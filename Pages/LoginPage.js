@@ -11,6 +11,6 @@ class LoginPage extends BasePage{
         await this.fill(this.PasswordInput,password);
         await this.click(this.loginbutton);
     }
-
+#testSamemoduleDifferentUser
 }
 module.exports=LoginPage;
