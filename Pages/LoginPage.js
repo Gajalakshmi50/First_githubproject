@@ -13,5 +13,4 @@ class LoginPage extends BasePage{
     }
 #testSamemoduleDifferentUser
 #conflictchange
-}
 module.exports=LoginPage;
