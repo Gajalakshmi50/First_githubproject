@@ -14,5 +14,6 @@ class BasePage{
     }
 }
 
+
 #conflictstest2
 module.exports=BasePage;
