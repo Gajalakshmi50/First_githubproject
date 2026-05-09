@@ -15,3 +15,4 @@ class BasePage{
 }
 module.exports=BasePage;
 #conflictstest2
+    #conflicttest3
