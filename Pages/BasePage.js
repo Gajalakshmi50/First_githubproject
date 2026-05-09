@@ -13,4 +13,5 @@ class BasePage{
         await CommonUtils.fill(locator,value);
     }
 }
+#conflictstest
 module.exports=BasePage;
