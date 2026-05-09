@@ -14,3 +14,4 @@ class BasePage{
     }
 }
 module.exports=BasePage;
+#conflictstest2
